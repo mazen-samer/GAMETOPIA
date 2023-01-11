@@ -98,32 +98,6 @@ session_start();
               et reiciendis voluptatum, amet est natus quaerat ducimus
             </p>
           </div>
-          <div class="box">
-            <img src="imgs/avatar-02.jpg" alt="" />
-            <h3>Mohamed Ehab</h3>
-            <span class="title">Infantry</span>
-            <div class="contact-me">
-              <a href="">Message</a>
-              <a href="mailto: sasa1xmido@gmail.com">Email</a>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              et reiciendis voluptatum, amet est natus quaerat ducimus
-            </p>
-          </div>
-          <div class="box">
-            <img src="imgs/avatar-03.jpg" alt="" />
-            <h3>Mostafa Aly</h3>
-            <span class="title">DeSha</span>
-            <div class="contact-me">
-              <a href="">Message</a>
-              <a href="mailto: MoStafa3lly@gmail.com">Email</a>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              et reiciendis voluptatum, amet est natus quaerat ducimus
-            </p>
-          </div>
         </div>
       </div>
     </div>
