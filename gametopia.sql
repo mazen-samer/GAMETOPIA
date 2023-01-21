@@ -199,8 +199,7 @@ INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `mobile`, `addr`,
 (12, 'ammar', 'ehab', '01234567899', 'tharwat', 'ammarehab@gmail.com', 'wolfteam2'),
 (13, 'zeyad', 'yasser', '01234567899', 'gleem', 'zeyad@gmail.com', 'zeyad123456'),
 (14, 'loay', 'hafez', '01234567899', 'smouha', 'loayhafez@gmail.com', 'loay123456'),
-(15, 'menna ', 'tarek', '01000993681', 'tharwar', 'menna@gmail.com', 'witchart123');
-
+(15, 'menna ', 'tarek', '01000993681', 'tharwat', 'menna@gmail.com', 'witchart123');
 -- --------------------------------------------------------
 
 --
